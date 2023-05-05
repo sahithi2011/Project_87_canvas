@@ -1,0 +1,34 @@
+.body_backgorund {
+    background-image: url("22.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: rgb(0, 0, 0); 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-color: none; 
+      border-style:none;
+      padding: 0%; 
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
+  p{
+    font-size: 20px;
+    font-family: Times, 'Times New Roman', serif;
+  }
+
+  a{
+    font-size: 20px;
+    font-family: Times, 'Times New Roman', serif;
+  }
+
+  
